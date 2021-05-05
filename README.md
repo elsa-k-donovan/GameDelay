@@ -4,7 +4,7 @@ TouchDesigner Dance Game
 > Download Wekinator
 
 
-Be a Contributer:
+## Be a Contributer:
 
 Step 1: Open Play.toe with TouchDesigner
 
@@ -24,7 +24,7 @@ Step 5: When you are done press train then upload your weki project on this repo
         When you do this you are adding more data to our Machine Learning algorithm -- helping to improve the accuracy of the gesture recognition.
 
 
-Be a Player:
+## Be a Player:
 
 Step 1: Open Play.toe with TouchDesigner
 
